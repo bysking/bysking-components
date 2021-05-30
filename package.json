@@ -7,7 +7,7 @@
   "main": "lib/bysking-ui.min.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bysking/bysking-components.git"
+    "url": "git@github.com:bysking/bysking-components.git"
   },
   "dependencies": {
     "async-validator": "^3.0.4",
